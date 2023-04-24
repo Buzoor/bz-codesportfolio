@@ -284,9 +284,9 @@ nav img {
 
 .work2 {
     width: 100%;
-    display: flex;
+/*     display: flex; */
     /* flex-direction: row; */
-    justify-content: space-between;
+/*     justify-content: space-between; */
 
 
 }
